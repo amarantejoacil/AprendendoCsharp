@@ -29,6 +29,7 @@ class Program
         foreach (string i in cars)
         {
             Console.WriteLine(i);
+            //git push -u origin main
         }
 
 
