@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\bin\Debug\net6.0\5-condicoes_switch.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\bin\Debug\net6.0\5-condicoes_switch.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\bin\Debug\net6.0\5-condicoes_switch.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\bin\Debug\net6.0\5-condicoes_switch.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\bin\Debug\net6.0\5-condicoes_switch.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\refint\5-condicoes_switch.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\5-condicoes_switch.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes_switch\obj\Debug\net6.0\ref\5-condicoes_switch.dll

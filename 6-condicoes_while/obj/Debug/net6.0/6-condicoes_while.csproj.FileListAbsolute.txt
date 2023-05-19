@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\bin\Debug\net6.0\6-condicoes_while.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\bin\Debug\net6.0\6-condicoes_while.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\bin\Debug\net6.0\6-condicoes_while.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\bin\Debug\net6.0\6-condicoes_while.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\bin\Debug\net6.0\6-condicoes_while.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\refint\6-condicoes_while.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\6-condicoes_while.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\6-condicoes_while\obj\Debug\net6.0\ref\6-condicoes_while.dll

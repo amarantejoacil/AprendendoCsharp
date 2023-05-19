@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\bin\Debug\net6.0\4-condicoes.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\bin\Debug\net6.0\4-condicoes.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\bin\Debug\net6.0\4-condicoes.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\bin\Debug\net6.0\4-condicoes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\bin\Debug\net6.0\4-condicoes.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\refint\4-condicoes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\4-condicoes.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\4-condicoes\obj\Debug\net6.0\ref\4-condicoes.dll

@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\bin\Debug\net6.0\7-condicoes_for.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\bin\Debug\net6.0\7-condicoes_for.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\bin\Debug\net6.0\7-condicoes_for.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\bin\Debug\net6.0\7-condicoes_for.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\bin\Debug\net6.0\7-condicoes_for.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\refint\7-condicoes_for.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\7-condicoes_for.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\7-condicoes_for\obj\Debug\net6.0\ref\7-condicoes_for.dll

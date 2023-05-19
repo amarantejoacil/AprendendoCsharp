@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\bin\Debug\net6.0\3-Conversoes.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\bin\Debug\net6.0\3-Conversoes.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\bin\Debug\net6.0\3-Conversoes.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\bin\Debug\net6.0\3-Conversoes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\bin\Debug\net6.0\3-Conversoes.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\refint\3-Conversoes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\3-Conversoes.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\3-Conversoes\obj\Debug\net6.0\ref\3-Conversoes.dll
