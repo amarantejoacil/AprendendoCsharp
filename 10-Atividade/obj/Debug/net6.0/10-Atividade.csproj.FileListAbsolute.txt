@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\bin\Debug\net6.0\10-Atividade.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\bin\Debug\net6.0\10-Atividade.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\bin\Debug\net6.0\10-Atividade.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\bin\Debug\net6.0\10-Atividade.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\bin\Debug\net6.0\10-Atividade.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\refint\10-Atividade.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\10-Atividade.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\10-Atividade\obj\Debug\net6.0\ref\10-Atividade.dll

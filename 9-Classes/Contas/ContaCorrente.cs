@@ -4,45 +4,46 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _9_Classes
+namespace _9_Classes.Contas
 {
     public class ContaCorrente
     {
         public int numero_agencia;
         public string conta;
-        public string titular;
+        public Cliente titular;
         public double saldo;
+
 
 
         public void Depositar(double valor)
         {
-            this.saldo += valor;
+            saldo += valor;
         }
 
         public void Saque(double Valor)
         {
-            if (this.saldo < Valor)
+            if (saldo < Valor)
             {
-                Console.WriteLine("Operação cancelada, você não possui saldo insuficiente. Seu limite máximo para saque hoje é de: R$" + this.saldo);
+                Console.WriteLine("Operação cancelada, você não possui saldo insuficiente. Seu limite máximo para saque hoje é de: R$" + saldo);
             }
             else
             {
-                this.saldo -= Valor;
+                saldo -= Valor;
             }
 
         }
 
         public bool Transferir(double Valor, ContaCorrente Destino)
         {
-            if (this.saldo < Valor)
+            if (saldo < Valor)
             {
-                this.saldo += Valor;
+                saldo += Valor;
                 Console.WriteLine("Saldo ínsuficiente para TRANSFERENCIA!!!");
                 return false;
             }
             else
             {
-                this.Saque(Valor);
+                Saque(Valor);
                 Destino.Depositar(Valor);
                 return true;
             }
