@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\bin\Debug\net6.0\11-Visibilidade.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\bin\Debug\net6.0\11-Visibilidade.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\bin\Debug\net6.0\11-Visibilidade.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\bin\Debug\net6.0\11-Visibilidade.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\bin\Debug\net6.0\11-Visibilidade.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\refint\11-Visibilidade.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\11-Visibilidade.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\11-Visibilidade\obj\Debug\net6.0\ref\11-Visibilidade.dll
