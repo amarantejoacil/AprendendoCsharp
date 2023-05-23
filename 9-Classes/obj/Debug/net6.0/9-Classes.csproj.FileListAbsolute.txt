@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\bin\Debug\net6.0\9-Classes.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\bin\Debug\net6.0\9-Classes.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\bin\Debug\net6.0\9-Classes.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\bin\Debug\net6.0\9-Classes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\bin\Debug\net6.0\9-Classes.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\refint\9-Classes.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\9-Classes.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\9-Classes\obj\Debug\net6.0\ref\9-Classes.dll
