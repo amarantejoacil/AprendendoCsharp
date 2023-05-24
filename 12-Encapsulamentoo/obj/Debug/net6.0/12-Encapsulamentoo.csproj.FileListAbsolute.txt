@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\bin\Debug\net6.0\12-Encapsulamentoo.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\bin\Debug\net6.0\12-Encapsulamentoo.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\bin\Debug\net6.0\12-Encapsulamentoo.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\bin\Debug\net6.0\12-Encapsulamentoo.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\bin\Debug\net6.0\12-Encapsulamentoo.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\refint\12-Encapsulamentoo.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\12-Encapsulamentoo.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\12-Encapsulamentoo\obj\Debug\net6.0\ref\12-Encapsulamentoo.dll

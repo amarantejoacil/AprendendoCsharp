@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\bin\Debug\net6.0\13-ExpressaoLambda.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\bin\Debug\net6.0\13-ExpressaoLambda.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\bin\Debug\net6.0\13-ExpressaoLambda.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\bin\Debug\net6.0\13-ExpressaoLambda.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\bin\Debug\net6.0\13-ExpressaoLambda.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\refint\13-ExpressaoLambda.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\13-ExpressaoLambda.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\13-ExpressaoLambda\obj\Debug\net6.0\ref\13-ExpressaoLambda.dll

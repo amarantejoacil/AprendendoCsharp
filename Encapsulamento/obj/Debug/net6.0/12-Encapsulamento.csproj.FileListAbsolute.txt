@@ -1,0 +1,5 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\Encapsulamento\obj\Debug\net6.0\12-Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\Encapsulamento\obj\Debug\net6.0\12-Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\Encapsulamento\obj\Debug\net6.0\12-Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\Encapsulamento\obj\Debug\net6.0\12-Encapsulamento.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\Encapsulamento\obj\Debug\net6.0\12-Encapsulamento.csproj.CoreCompileInputs.cache
