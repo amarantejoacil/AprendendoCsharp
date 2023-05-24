@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\bin\Debug\net6.0\14-RelacionarClasses.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\bin\Debug\net6.0\14-RelacionarClasses.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\bin\Debug\net6.0\14-RelacionarClasses.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\bin\Debug\net6.0\14-RelacionarClasses.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\bin\Debug\net6.0\14-RelacionarClasses.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\refint\14-RelacionarClasses.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\14-RelacionarClasses.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\14-RelacionarClasses\obj\Debug\net6.0\ref\14-RelacionarClasses.dll

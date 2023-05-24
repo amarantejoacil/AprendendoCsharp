@@ -6,7 +6,7 @@
 List<int> numeros = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
 
-
+//percorrendo normal
 //for (int i = 0; i < numeros.Count; i++)
 //{
 //    Console.WriteLine(numeros[i]);
@@ -26,3 +26,13 @@ foreach (int numero in numeroPares)
 {
     Console.WriteLine(numero);
 }
+
+
+//-------------------------------LAMBADA----------------------------
+
+Console.WriteLine("-------------------------------LAMBADA----------------------------");
+List<int> numeroExLambda = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8 };
+List<int> numParesLambda = numeroExLambda.FindAll(num => num % 2 == 0);
+
+numParesLambda.ForEach(numero => Console.WriteLine(numero));
+
