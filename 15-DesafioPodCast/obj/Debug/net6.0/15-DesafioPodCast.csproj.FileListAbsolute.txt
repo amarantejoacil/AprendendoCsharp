@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\bin\Debug\net6.0\15-DesafioPodCast.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\bin\Debug\net6.0\15-DesafioPodCast.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\bin\Debug\net6.0\15-DesafioPodCast.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\bin\Debug\net6.0\15-DesafioPodCast.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\bin\Debug\net6.0\15-DesafioPodCast.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\refint\15-DesafioPodCast.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\15-DesafioPodCast.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\15-DesafioPodCast\obj\Debug\net6.0\ref\15-DesafioPodCast.dll

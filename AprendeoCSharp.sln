@@ -19,17 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-condicoes_for", "7-condic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-ForAlinhado", "ForAlinhado\8-ForAlinhado.csproj", "{5560EA49-D1B2-4E52-8B36-65CFD0163D28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Classes", "9-Classes\9-Classes.csproj", "{9F42D937-C8EF-4474-891B-0A8BDAD2DF60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Classes", "9-Classes\9-Classes.csproj", "{9F42D937-C8EF-4474-891B-0A8BDAD2DF60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Atividade", "10-Atividade\10-Atividade.csproj", "{78621FD5-CA41-4B74-A1D0-43B6E84B966E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-Atividade", "10-Atividade\10-Atividade.csproj", "{78621FD5-CA41-4B74-A1D0-43B6E84B966E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Visibilidade", "11-Visibilidade\11-Visibilidade.csproj", "{266C5A1B-A004-43A8-8E1C-6AECA3ACAE82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-Visibilidade", "11-Visibilidade\11-Visibilidade.csproj", "{266C5A1B-A004-43A8-8E1C-6AECA3ACAE82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Encapsulamentoo", "12-Encapsulamentoo\12-Encapsulamentoo.csproj", "{D58963FD-66FC-4D2B-9718-B17A6587776E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-Encapsulamentoo", "12-Encapsulamentoo\12-Encapsulamentoo.csproj", "{D58963FD-66FC-4D2B-9718-B17A6587776E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-ExpressaoLambda", "13-ExpressaoLambda\13-ExpressaoLambda.csproj", "{F4BB2892-94D9-407D-B737-AE084B16685A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-ExpressaoLambda", "13-ExpressaoLambda\13-ExpressaoLambda.csproj", "{F4BB2892-94D9-407D-B737-AE084B16685A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-RelacionarClasses", "14-RelacionarClasses\14-RelacionarClasses.csproj", "{C8C9839D-B048-4CD0-832D-D581FC4FB88A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-RelacionarClasses", "14-RelacionarClasses\14-RelacionarClasses.csproj", "{C8C9839D-B048-4CD0-832D-D581FC4FB88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-DesafioPodCast", "15-DesafioPodCast\15-DesafioPodCast.csproj", "{5946B36F-5524-4A07-9352-75FAAA243B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{C8C9839D-B048-4CD0-832D-D581FC4FB88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8C9839D-B048-4CD0-832D-D581FC4FB88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8C9839D-B048-4CD0-832D-D581FC4FB88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5946B36F-5524-4A07-9352-75FAAA243B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5946B36F-5524-4A07-9352-75FAAA243B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5946B36F-5524-4A07-9352-75FAAA243B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5946B36F-5524-4A07-9352-75FAAA243B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

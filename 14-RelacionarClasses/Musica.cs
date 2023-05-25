@@ -9,8 +9,13 @@ namespace _14_RelacionarClasses
     public class Musica
     {
 
+        public Musica(Banda artistaParm)
+        {
+            artista = artistaParm;
+        }
+
         public string nome { get; set; }
-        public string artista { get; set; }
+        public Banda artista { get; set; }
         public int duracao { get; set; }
         public bool disponivel { get; set; }
 
