@@ -13,13 +13,26 @@ namespace _15_DesafioPodCast
 
         public int duracaoEpisodio { get; set; }
 
+        public List<string> convidadoEpisodio = new List<string>();
 
 
         public string resumoEpidosio()
         {
-            string resumo = "Número: " + this.numeroEpisodio.ToString() + " | Tema: " + this.tituloEpisodio + " | Duração: " + this.duracaoEpisodio.ToString() + "minutos!";
+            string resumo = "Resumão de hoje!!! Número: " + this.numeroEpisodio.ToString() + " | Tema: " + this.tituloEpisodio + " | Duração: " + this.duracaoEpisodio.ToString();
+
+
+            foreach (var item in convidadoEpisodio)
+            {
+                resumo = resumo + " Convidado(a): " + item.ToString() + "";
+            }
+
             return resumo;
         }
 
+
+        public void adicionarConvidado(string nome)
+        {
+            convidadoEpisodio.Add(nome);
+        }
     }
 }
