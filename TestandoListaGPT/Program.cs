@@ -84,6 +84,7 @@ Console.WriteLine("numApartamento" + numApartamento);
 
 Console.WriteLine("-----------------INDEX OFF---------------------");
 
+
 //IndexOf(T item): Retorna o índice da primeira ocorrência de um elemento na lista.
 List<string> texto = new List<string>() { "Maria", "Pedro", "Gustavo" };
 int posicao = texto.IndexOf("Gustavo");
@@ -100,3 +101,14 @@ foreach (var num in numEscolasMT)
 {
     Console.WriteLine("numEscolasMT: " + num.ToString());
 }
+
+
+Console.WriteLine("-----------------Exists---------------------");
+
+List<string> sobreNomes = new List<string>();
+sobreNomes.Add("Nome 01");
+sobreNomes.Add("Nome 02");
+sobreNomes.Add("Nome 03");
+
+bool existeOuNao = sobreNomes.Exists(sobreNomes => sobreNomes == "Nome 012");
+Console.WriteLine("existeOuNao: " + existeOuNao.ToString());
