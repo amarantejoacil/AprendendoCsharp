@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\bin\Debug\net6.0\16-TestandoListaGPT.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\bin\Debug\net6.0\16-TestandoListaGPT.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\bin\Debug\net6.0\16-TestandoListaGPT.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\bin\Debug\net6.0\16-TestandoListaGPT.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\bin\Debug\net6.0\16-TestandoListaGPT.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\refint\16-TestandoListaGPT.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\16-TestandoListaGPT.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestandoListaGPT\obj\Debug\net6.0\ref\16-TestandoListaGPT.dll
