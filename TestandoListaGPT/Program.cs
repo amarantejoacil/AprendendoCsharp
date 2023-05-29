@@ -114,6 +114,63 @@ bool existeOuNao = sobreNomes.Exists(sobreNomes => sobreNomes == "Nome 012");
 Console.WriteLine("existeOuNao: " + existeOuNao.ToString());
 
 
-Console.WriteLine("-----------------Exists---------------------");
+Console.WriteLine("-----------------FIND---------------------");
+//Find(Predicate<T> match): Encontra o primeiro elemento que atende a uma determinada condição.
+
+List<int> numerosApartamentos = new List<int> { 1, 2, 3, 7, 5 };
+
+int primeiroMaiorQueTres = numerosApartamentos.Find(numero => numero > 3);
+Console.WriteLine("numerosApartamentos: " + primeiroMaiorQueTres.ToString());
+//7
 
 
+Console.WriteLine("-----------------FINDLAST---------------------");
+//FindLast(Predicate<T> match): Encontra o último elemento que atende a uma determinada condição.
+List<int> numerosCasa = new List<int> { 1, 2, 3, 4, 5 };
+
+int retornoCasa = numerosCasa.FindLast(retorno => retorno > 2);
+Console.WriteLine("numerosCasa: " + retornoCasa.ToString());
+//7
+
+
+Console.WriteLine("-----------------FINDALL---------------------");
+//FindAll(Predicate<T> match): Encontra todos os elementos que atendem a uma determinada condição.
+
+List<int> numerosDeBlocos = new List<int> { 11, 22, 33, 44, 55 };
+
+List<int> maioresQueTres = numerosDeBlocos.FindAll(numero => numero > 32);
+foreach (int numero in maioresQueTres)
+{
+    Console.WriteLine("FINDALL: " + numero);
+}
+
+
+
+
+Console.WriteLine("-----------------FIND INDEX---------------------");
+//FindIndex(Predicate<T> match): Encontra o índice do primeiro elemento que atende a uma determinada condição.
+
+
+List<int> placaCarro = new List<int> { 1223, 2234, 3213, 4468, 51249 };
+
+int indiceMaiorQueTres = placaCarro.FindIndex(numero => numero > 3353);
+Console.WriteLine("FIND INDEX: " + indiceMaiorQueTres);
+//resposta 3
+
+
+Console.WriteLine("-----------------RETORNAR O ÚLTIMO INDEX---------------------");
+//FindLastIndex(Predicate<T> match): Encontra o índice do último elemento que atende a uma determinada condição.
+
+List<int> numerosDeComputadores = new List<int> { 1, 2, 3, 4, 5 };
+
+int ultimoIndiceMaiorQueTres = numerosDeComputadores.FindLastIndex(numero => numero > 4);
+Console.WriteLine("RETORNAR O ÚLTIMO INDEX: " + ultimoIndiceMaiorQueTres);
+
+
+//resposta 3
+// se retornar -1 , é pq não encontrou
+
+
+{
+
+}
