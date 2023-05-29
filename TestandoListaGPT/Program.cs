@@ -112,3 +112,6 @@ sobreNomes.Add("Nome 03");
 
 bool existeOuNao = sobreNomes.Exists(sobreNomes => sobreNomes == "Nome 012");
 Console.WriteLine("existeOuNao: " + existeOuNao.ToString());
+
+
+Console.WriteLine("-----------------Exists---------------------");
