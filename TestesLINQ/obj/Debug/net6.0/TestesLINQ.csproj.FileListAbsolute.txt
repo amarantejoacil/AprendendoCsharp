@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\bin\Debug\net6.0\TestesLINQ.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\bin\Debug\net6.0\TestesLINQ.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\bin\Debug\net6.0\TestesLINQ.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\bin\Debug\net6.0\TestesLINQ.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\bin\Debug\net6.0\TestesLINQ.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\refint\TestesLINQ.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\TestesLINQ.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\TestesLINQ\obj\Debug\net6.0\ref\TestesLINQ.dll
