@@ -167,7 +167,7 @@ int ultimoIndiceMaiorQueTres = numerosDeComputadores.FindLastIndex(numero => num
 Console.WriteLine("RETORNAR O ÚLTIMO INDEX: " + ultimoIndiceMaiorQueTres);
 
 
-numerosDeComputadores.Where
+//numerosDeComputadores.Where
 
 //resposta 3
 // se retornar -1 , é pq não encontrou

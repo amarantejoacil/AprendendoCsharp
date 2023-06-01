@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\bin\Debug\net6.0\18-UsandoDLL.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\bin\Debug\net6.0\18-UsandoDLL.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\bin\Debug\net6.0\18-UsandoDLL.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\bin\Debug\net6.0\bytebank_GeradorChavePix.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\bin\Debug\net6.0\bytebank_GeradorChavePix.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.csproj.CopyComplete
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\refint\18-UsandoDLL.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\18-UsandoDLL.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-UsandoDLL\obj\Debug\net6.0\ref\18-UsandoDLL.dll

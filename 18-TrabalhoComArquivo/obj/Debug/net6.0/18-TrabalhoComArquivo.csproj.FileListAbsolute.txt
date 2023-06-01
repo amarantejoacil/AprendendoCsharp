@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\bin\Debug\net6.0\18-TrabalhoComArquivo.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\bin\Debug\net6.0\18-TrabalhoComArquivo.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\bin\Debug\net6.0\18-TrabalhoComArquivo.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\bin\Debug\net6.0\18-TrabalhoComArquivo.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\bin\Debug\net6.0\18-TrabalhoComArquivo.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\refint\18-TrabalhoComArquivo.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\18-TrabalhoComArquivo.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\18-TrabalhoComArquivo\obj\Debug\net6.0\ref\18-TrabalhoComArquivo.dll
