@@ -1,18 +1,75 @@
-﻿class Program
+﻿using _18_TrabalhoComArquivo;
+using System;
+using System.IO;
+using System.Text;
+
+class Program
 {
     static void Main(string[] args)
     {
+        CriarArquivo();
+        CriarArquivoComWriter();
         var enderecoDoArquivo = "flashcard.csv";
-        var fluxoDoArquivo = new FileStream(enderecoDoArquivo, FileMode.Open);
 
-        //public override int Read(byte[] array, int offset, int count);
-        //(byte[] array = é onde vão ser armazenado
-        //int offset = indica a posição da onde deve começar preencher... ex: valor 10, ele reserva a posição de 0 a 9 para algo
-        //int count =  indica o quanto eu quero preencher.
+        using (var fluxoDeArquivo = new FileStream(enderecoDoArquivo, FileMode.Open))
+        {
+            var leitor = new StreamReader(fluxoDeArquivo);
 
-        var buffer = new byte[1024];
-        fluxoDoArquivo.Read(buffer, 0, 1024);
+            while (!leitor.EndOfStream)
+            {
+                var linha = leitor.ReadLine();
+                Console.WriteLine(linha);
 
+                var flashcard = ConverConvertoFlashCards(linha);
+
+                var msg = $"cadastro de pergunta: {flashcard.pergunta}";
+
+                Console.WriteLine(msg);
+
+            }
+        }
+        Console.ReadLine();
 
     }
+
+
+    static Flashcard ConverConvertoFlashCards(string linha)
+    {
+        var campos = linha.Split('\n');
+        var pergunta = campos[0];
+        var resultado = new Flashcard(pergunta);
+        return resultado;
+    }
+
+    //modelo antigo
+    static void CriarArquivo()
+    {
+        var caminhoNovoArquivo = "contasExportadasFileStream.csv";
+
+        using (var fluxoDeArquivo = new FileStream(caminhoNovoArquivo, FileMode.Create))
+        {
+            var contaComoString = "456, 7895, 4785.40, Gustavo Santos";
+
+            var encoding = Encoding.UTF8;
+
+            var bytes = encoding.GetBytes(contaComoString);
+
+            fluxoDeArquivo.Write(bytes, 0, bytes.Length);
+
+        }
+
+    }
+
+    //modelo novo para escrever arquivo
+    static void CriarArquivoComWriter()
+    {
+        var caminhoNovoArquivo = "contasExportadasComWrite.csv";
+
+        using (var fluxoDeArquivo = new FileStream(caminhoNovoArquivo, FileMode.Create))
+        using (var escritor = new StreamWriter(fluxoDeArquivo))
+        {
+            escritor.Write("456,65465,456.0,Pedro");
+        }
+    }
+
 }
