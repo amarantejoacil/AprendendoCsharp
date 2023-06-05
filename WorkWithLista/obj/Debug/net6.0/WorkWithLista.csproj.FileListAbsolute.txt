@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\bin\Debug\net6.0\WorkWithLista.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\bin\Debug\net6.0\WorkWithLista.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\bin\Debug\net6.0\WorkWithLista.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\bin\Debug\net6.0\WorkWithLista.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\bin\Debug\net6.0\WorkWithLista.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\refint\WorkWithLista.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\WorkWithLista.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\WorkWithLista\obj\Debug\net6.0\ref\WorkWithLista.dll
