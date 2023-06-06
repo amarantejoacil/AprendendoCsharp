@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\bin\Debug\net6.0\ListOfObjetcs.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\bin\Debug\net6.0\ListOfObjetcs.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\bin\Debug\net6.0\ListOfObjetcs.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\bin\Debug\net6.0\ListOfObjetcs.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\bin\Debug\net6.0\ListOfObjetcs.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\refint\ListOfObjetcs.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ListOfObjetcs.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListOfObjetcs\obj\Debug\net6.0\ref\ListOfObjetcs.dll

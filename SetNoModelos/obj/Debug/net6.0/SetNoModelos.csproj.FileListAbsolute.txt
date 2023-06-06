@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\bin\Debug\net6.0\SetNoModelos.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\bin\Debug\net6.0\SetNoModelos.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\bin\Debug\net6.0\SetNoModelos.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\bin\Debug\net6.0\SetNoModelos.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\bin\Debug\net6.0\SetNoModelos.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\refint\SetNoModelos.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\SetNoModelos.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SetNoModelos\obj\Debug\net6.0\ref\SetNoModelos.dll

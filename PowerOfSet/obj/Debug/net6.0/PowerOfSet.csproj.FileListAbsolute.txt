@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\bin\Debug\net6.0\PowerOfSet.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\bin\Debug\net6.0\PowerOfSet.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\bin\Debug\net6.0\PowerOfSet.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\bin\Debug\net6.0\PowerOfSet.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\bin\Debug\net6.0\PowerOfSet.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\refint\PowerOfSet.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\PowerOfSet.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\PowerOfSet\obj\Debug\net6.0\ref\PowerOfSet.dll

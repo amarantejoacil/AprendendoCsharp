@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\bin\Debug\net6.0\ListReadyOnly.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\bin\Debug\net6.0\ListReadyOnly.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\bin\Debug\net6.0\ListReadyOnly.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\bin\Debug\net6.0\ListReadyOnly.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\bin\Debug\net6.0\ListReadyOnly.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\refint\ListReadyOnly.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ListReadyOnly.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\ListReadyOnly\obj\Debug\net6.0\ref\ListReadyOnly.dll
