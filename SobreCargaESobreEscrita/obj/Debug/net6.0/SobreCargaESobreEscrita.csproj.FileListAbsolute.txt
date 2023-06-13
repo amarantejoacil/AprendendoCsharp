@@ -1,0 +1,15 @@
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\bin\Debug\net6.0\SobreCargaESobreEscrita.exe
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\bin\Debug\net6.0\SobreCargaESobreEscrita.deps.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\bin\Debug\net6.0\SobreCargaESobreEscrita.runtimeconfig.json
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\bin\Debug\net6.0\SobreCargaESobreEscrita.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\bin\Debug\net6.0\SobreCargaESobreEscrita.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.csproj.AssemblyReference.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.AssemblyInfoInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.AssemblyInfo.cs
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.csproj.CoreCompileInputs.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\refint\SobreCargaESobreEscrita.dll
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.pdb
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\SobreCargaESobreEscrita.genruntimeconfig.cache
+C:\Users\48505\Desktop\PROJETOS\AprendeoCSharp\SobreCargaESobreEscrita\obj\Debug\net6.0\ref\SobreCargaESobreEscrita.dll

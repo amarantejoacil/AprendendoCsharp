@@ -18,6 +18,7 @@ class Program
         Aluno a2 = new Aluno("Ana", 2);
         Aluno a3 = new Aluno("Rafael", 3);
 
+
         //matricular aluno
         csharpColecoes.matricula(a1);
         csharpColecoes.matricula(a2);
@@ -28,6 +29,19 @@ class Program
         {
             Console.WriteLine(aluno);
         }
+
+        Console.WriteLine($"O aluno a1: {a1.Nome}, está matriculado?");
+        Console.WriteLine("Verificando se está matriculado: " + csharpColecoes.EstraMatriculado(a1));
+
+        Aluno joacil = new Aluno("Joacil", 4);
+        Console.WriteLine("Aluno: Joacil, está matriulado? " + csharpColecoes.EstraMatriculado(joacil));
+
+
+        Console.WriteLine(a1 == joacil);
+        Console.WriteLine(a1.Equals(joacil));
+
+
+
 
     }
 }

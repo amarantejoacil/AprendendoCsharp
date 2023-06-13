@@ -82,5 +82,10 @@ namespace ListReadyOnly
         {
             alunos.Add(aluno);
         }
+
+        public bool EstraMatriculado(Aluno aluno)
+        {
+            return alunos.Contains(aluno);
+        }
     }
 }
