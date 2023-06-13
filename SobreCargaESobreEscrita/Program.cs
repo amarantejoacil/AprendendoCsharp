@@ -37,5 +37,21 @@ class Progran
         cachorro.EmitirSom();
 
 
+        /*
+         Polimorfismo:Capacidade de um objeto ser tratado de diferentes formas, dependendo do contexto em que é usado. 
+        No C#, o polimorfismo é alcançado através da sobrescrita de métodos, interfaces e herança.
+                
+         */
+
+        List<Animal> animais = new List<Animal>();
+        animais.Add(new Cachorro());
+        animais.Add(new Gato());
+
+        Console.WriteLine("----------------------------------------------");
+        foreach (Animal resultado in animais)
+        {
+            resultado.EmitirSom();
+        }
+
     }
 }

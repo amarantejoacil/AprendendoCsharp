@@ -41,6 +41,17 @@ class Program
         Console.WriteLine(a1.Equals(joacil));
 
 
+        Console.WriteLine("Quem é o aluno com a matricula: 3 ? ");
+        Aluno alunoBusca = csharpColecoes.buscaMatriculado(3);
+        Aluno alunoBuscaDicionario = csharpColecoes.buscaMatriculadoDicionario(3);
+        Console.WriteLine("alunoBusca: " + alunoBusca);
+        Console.WriteLine("alunoBuscaDicionario: " + alunoBuscaDicionario);
+
+        //adicionando aluno repitido com dicionario... estoura erro, para isso precisamos implementar um metodo de substituir aluno
+        Aluno fabio = new Aluno("Fabio", 3);
+        csharpColecoes.substituiAluno(fabio);
+        Console.WriteLine("Quem é o aluno do cod: 3 ?" + csharpColecoes.buscaMatriculadoDicionario(3));
+
 
 
     }
