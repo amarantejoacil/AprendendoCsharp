@@ -57,7 +57,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerOfSet", "PowerOfSet\Po
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetNoModelos", "SetNoModelos\SetNoModelos.csproj", "{82FE2556-12DA-4A62-94BC-047028F380C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreCargaESobreEscrita", "SobreCargaESobreEscrita\SobreCargaESobreEscrita.csproj", "{5C640A8B-F94C-486E-B2CB-2FC5C3BAEA9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobreCargaESobreEscrita", "SobreCargaESobreEscrita\SobreCargaESobreEscrita.csproj", "{5C640A8B-F94C-486E-B2CB-2FC5C3BAEA9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EntendendoExcessoes", "EntendendoExcessoes", "{EE80832D-7AA8-4567-BAD0-F982904CFB1F}"
+	ProjectSection(SolutionItems) = preProject
+		9-Classes\Titular\Cliente.cs = 9-Classes\Titular\Cliente.cs
+		9-Classes\Contas\ContaCorrente.cs = 9-Classes\Contas\ContaCorrente.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank", "Clinete\ByteBank.csproj", "{F1976C51-38FD-4CCC-92E3-E969531DF715}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -173,6 +181,10 @@ Global
 		{5C640A8B-F94C-486E-B2CB-2FC5C3BAEA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C640A8B-F94C-486E-B2CB-2FC5C3BAEA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C640A8B-F94C-486E-B2CB-2FC5C3BAEA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1976C51-38FD-4CCC-92E3-E969531DF715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1976C51-38FD-4CCC-92E3-E969531DF715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1976C51-38FD-4CCC-92E3-E969531DF715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1976C51-38FD-4CCC-92E3-E969531DF715}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -184,6 +196,7 @@ Global
 		{081DDA98-DFB7-45B6-B437-9D39DDF3B544} = {0245D31D-A72E-46EA-95B6-DD836AC49AE8}
 		{D0C3CFA6-4080-4B03-801D-E73B81146C46} = {0245D31D-A72E-46EA-95B6-DD836AC49AE8}
 		{82FE2556-12DA-4A62-94BC-047028F380C9} = {0245D31D-A72E-46EA-95B6-DD836AC49AE8}
+		{F1976C51-38FD-4CCC-92E3-E969531DF715} = {EE80832D-7AA8-4567-BAD0-F982904CFB1F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1685534C-0C52-40A8-B6FB-BD73B76C6A94}
